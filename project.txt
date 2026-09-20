@@ -1,3 +1,5 @@
-We are here to have fun with 'Code Reviewing'!
 Project Management System
+
 This project is developed using Python.
+It is designed to help teams manage projects,
+tasks, and basic project information.
