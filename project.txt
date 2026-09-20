@@ -1,1 +1,3 @@
 We are here to have fun with 'Code Reviewing'!
+Project Management System
+This project is developed using Python.
